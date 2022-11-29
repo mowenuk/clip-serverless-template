@@ -1,0 +1,7 @@
+sanic
+transformers
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+requests
